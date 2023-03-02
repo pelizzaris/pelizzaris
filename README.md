@@ -1,12 +1,6 @@
 ## Prazer! Me chamo Vinícius Pelizzari
 
-<p align="center">
-    <a href="https://github.com/ViniciusPelizzari/github-readme-stats/actions">
- <img alt="Testes de aprovação" src="https://github.com/ViniciusPelizzari/github-readme-stats/workflows/Test/badge.svg" />
-    </a>
-    <a href="https://github.com/ViniciusPelizzari/github-readme-stats/graphs/contributors">
- <img alt="Colaboradores do GitHub" src="https://img.shields.io/github/contributors/ViniciusPelizzari/github-readme-stats" />
-    </a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ViniciusPelizzari&repo=github-readme-stats)](https://github.com/ViniciusPelizzari/github-readme-stats)
   
 <div>
 <picture>
