@@ -38,5 +38,5 @@
 </div>
 
 <div>
-  <object type="image/svg+xml" data="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg"></object>
+  <object type="image/svg+xml" data="https://raw.githubusercontent.com/ViniciusPelizzari/ViniciusPelizzari/output/github-contribution-grid-snake.svg"></object>
 </div>
