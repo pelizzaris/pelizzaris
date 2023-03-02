@@ -14,12 +14,10 @@
 </picture>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusPelizzari&langs_count=8&theme=dark)](https://github.com/ViniciusPelizzari/github-readme-stats)
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusPelizzari&hide_progress=true&theme=dark)](https://github.com/ViniciusPelizzari/github-readme-stats)  
+   
 </div>
 
 - ⚙️⚒️ Profile under Construction
-
 - 🎓 Analista e Desenvolvedor de Sistemas
 - 🔭 Atualmente trabalho como HelpDesk
 - 🍵 Estudando Java
