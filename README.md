@@ -42,25 +42,12 @@
 
 ! [Animação de cobra](https://github.com/ViniciusPelizzari/ViniciusPelizzari/blob/output/github-contribution-grid-snake.svg)
 
-<div style="display:flex">
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=ViniciusPelizzari&show_icons=true&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=ViniciusPelizzari&show_icons=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=ViniciusPelizzari&show_icons=true" />
-  </picture>
-  
+<div style="display: flex;">
   <div>
-    <a href="https://github.com/ViniciusPelizzari/github-readme-stats">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusPelizzari&langs_count=8&theme=dark" />
-    </a>
-    <a href="https://github.com/ViniciusPelizzari/github-readme-stats">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusPelizzari&hide_progress=true&theme=dark" />
-    </a>
+    <img src="https://github-readme-stats.vercel.app/api?username=ViniciusPelizzari&show_icons=true" />
+  </div>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusPelizzari&langs_count=8&theme=dark" />
   </div>
 </div>
+
