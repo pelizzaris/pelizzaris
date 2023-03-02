@@ -45,9 +45,4 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ViniciusPelizzari/ViniciusPelizzari/output/github-contribution-grid-snake.svg">
 </imagem>
 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+_generated com [Platane/snk](https://github.com/Platane/snk)_
