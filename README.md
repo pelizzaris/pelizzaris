@@ -1,14 +1,5 @@
 ## Prazer! Me chamo Vinícius Pelizzari
 
-- ⚙️⚒️ Profile under Construction
-
-- 🎓 Analista e Desenvolvedor de Sistemas
-- 🔭 Atualmente trabalho como HelpDesk
-- 🍵 Estudando Java
-- 🏹 Migrando para o Desenvolvimento
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusPelizzari&hide_progress=true)](https://github.com/ViniciusPelizzari/github-readme-stats)
-
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=ViniciusPelizzari&show_icons=true&theme=dark"
@@ -20,6 +11,15 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=ViniciusPelizzari&show_icons=true" />
 </picture>
+
+- ⚙️⚒️ Profile under Construction
+
+- 🎓 Analista e Desenvolvedor de Sistemas
+- 🔭 Atualmente trabalho como HelpDesk
+- 🍵 Estudando Java
+- 🏹 Migrando para o Desenvolvimento
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusPelizzari&hide_progress=true)](https://github.com/ViniciusPelizzari/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Vinicius-Java" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
