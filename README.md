@@ -1,6 +1,7 @@
 ## Prazer! Me chamo Vinícius Pelizzari
 
 <div>
+  <img alt="Testes de aprovação" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=ViniciusPelizzari&show_icons=true&theme=dark"
