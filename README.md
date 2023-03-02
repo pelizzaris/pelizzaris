@@ -1,8 +1,6 @@
 ## Prazer! Me chamo Vinícius Pelizzari
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusPelizzari&langs_count=8)](https://github.com/ViniciusPelizzari/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusPelizzari&layout=compact)](https://github.com/ViniciusPelizzari/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusPelizzari&langs_count=8&theme=onedark)](https://github.com/ViniciusPelizzari/github-readme-stats)
 
 <div>
 <picture>
