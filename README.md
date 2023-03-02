@@ -15,6 +15,11 @@
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusPelizzari&hide_progress=true&theme=dark)](https://github.com/ViniciusPelizzari/github-readme-stats)
   
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Vinicius-Java" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="Vinicius-Python" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+  
 </div>
 
 - ⚙️⚒️ Profile under Construction
@@ -24,10 +29,9 @@
 - 🍵 Estudando Java
 - 🏹 Migrando para o Desenvolvimento
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Vinicius-Java" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Vinicius-Python" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+
+ 
+ ##
  
 <div>
   <a href="https://www.instagram.com/v_pelizzari/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
