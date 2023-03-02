@@ -21,8 +21,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/ViniciusPelizzari/anuraghazra&show_icons=true&theme=onedark)
 
-[![GitHub statistics by Vinícius Pelizzari](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/ViniciusPelizzari/github-readme-stats#gh-dark-mode-only)
-[![ViniciusPelizzari's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/ViniciusPelizzari/github-readme-stats#gh-light-mode-only)
+[![GitHub statistics by Vinícius Pelizzari](https://github-readme-stats.vercel.app/api?username=ViniciusPelizzari_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/ViniciusPelizzari/github-readme-stats#gh-dark-mode-only)
+[![ViniciusPelizzari's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusPelizzari_icons=true&theme=default#gh-light-mode-only)](https://github.com/ViniciusPelizzari/github-readme-stats#gh-light-mode-only)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Vinicius-Java" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
