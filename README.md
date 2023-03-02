@@ -37,24 +37,14 @@
   <a href="https://www.linkedin.com/in/vpelizzari/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<div style="display: flex; flex-direction: column; justify-content: center;">
-  <div>
-    <picture>
-      <source 
-        srcset="https://github-readme-stats.vercel.app/api?username=ViniciusPelizzari&show_icons=true&theme=dark"
-        media="(prefers-color-scheme: dark)"
-      />
-      <source
-        srcset="https://github-readme-stats.vercel.app/api?username=ViniciusPelizzari&show_icons=true"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      />
-      <img src="https://github-readme-stats.vercel.app/api?username=ViniciusPelizzari&show_icons=true" />
-    </picture>
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusPelizzari&layout=compact&theme=dark)](https://github.com/ViniciusPelizzari/github-readme-stats)
-  </div>
+<div style="display: flex; flex-direction: column;">
+ 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusPelizzari&layout=compact&theme=dark)](https://github.com/ViniciusPelizzari/github-readme-stats)
 
-  <div style="display: inline-block;"><br>
+  <div style="display: inline_block"><br>
     <img align="center" alt="Vinicius-Java" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
     <img align="center" alt="Vinicius-Python" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   </div>
+  
 </div>
+
