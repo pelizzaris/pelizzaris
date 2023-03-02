@@ -18,8 +18,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/ViniciusPelizzari/anuraghazra&show_icons=true&theme=onedark)
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Vinicius-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Vinicius-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Vinicius-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="Vinicius-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   
   ##
