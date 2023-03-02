@@ -9,7 +9,13 @@
 
 ! [Animação de cobra](https://github.com/ViniciusPelizzari/ViniciusPelizzari/blob/output/github-contribution-grid-snake.svg)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/ViniciusPelizzarianuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/ViniciusPelizzari/anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/ViniciusPelizzari/anuraghazra&count_private=true)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/ViniciusPelizzari/anuraghazra&show_icons=true)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=onedark)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Vinicius-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
