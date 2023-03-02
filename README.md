@@ -10,6 +10,11 @@
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=ViniciusPelizzari&show_icons=true" />
+  
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Vinicius-Java" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="Vinicius-Python" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
 </picture>
 
 - ⚙️⚒️ Profile under Construction
