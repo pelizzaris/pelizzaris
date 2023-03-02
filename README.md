@@ -7,9 +7,9 @@
 - 🍵 Estudando Java
 - 🏹 Migrando para o Desenvolvimento
 
-[! [Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ViniciusPelizzari&show_icons)
+(https://github-readme-stats.vercel.app/api?username=ViniciusPelizzari&show_icons)
 
-! [Animação de cobra](https://github.com/ViniciusPelizzari/ViniciusPelizzari/blob/output/github-contribution-grid-snake.svg)
+(https://github.com/ViniciusPelizzari/ViniciusPelizzari/blob/output/github-contribution-grid-snake.svg)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/ViniciusPelizzari/anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
