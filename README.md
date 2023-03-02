@@ -7,7 +7,7 @@
 - 🍵 Estudando Java
 - 🏹 Migrando para o Desenvolvimento
 
-[![ViniciusPelizzari's GitHub stats](https://github.com/ViniciusPelizzari/ViniciusPelizzari/blob/output/github-contribution-grid-snake.svg)](https://github.com/ViniciusPelizzari)
+! [Animação de cobra](https://github.com/ViniciusPelizzari/ViniciusPelizzari/blob/output/github-contribution-grid-snake.svg)
 
 
 [![ViniciusPelizzari's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusPelizzari)](https://github.com/ViniciusPelizzari/github-readme-stats)
