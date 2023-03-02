@@ -11,6 +11,9 @@
 
 (https://github.com/ViniciusPelizzari/ViniciusPelizzari/blob/output/github-contribution-grid-snake.svg)
 
+[![ViniciusPelizzari's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusPelizzari)](https://github.com/ViniciusPelizzari/github-readme-stats)
+
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/ViniciusPelizzari/anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/ViniciusPelizzari/anuraghazra&count_private=true)
@@ -20,7 +23,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/ViniciusPelizzari/anuraghazra&show_icons=true&theme=onedark)
 
 [![GitHub statistics by Vinícius Pelizzari](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/ViniciusPelizzari/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/ViniciusPelizzari/github-readme-stats#gh-light-mode-only)
+[![ViniciusPelizzari's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/ViniciusPelizzari/github-readme-stats#gh-light-mode-only)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Vinicius-Js" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
