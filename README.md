@@ -12,13 +12,6 @@
 
 
 
-![ViniciusPelizzari's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusPelizzari&hide=contribs,prs)
-
-https://github-readme-stats.vercel.app/api?username=ViniciusPelizzari&count_private=true
-
-![ViniciusPelizzari's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusPelizzari&show_icons=true)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusPelizzari&show_icons=true&theme=THEME_NAME)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusPelizzari&show_icons=true&theme=onedark)
 
