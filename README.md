@@ -7,7 +7,7 @@
 - 🍵 Estudando Java
 - 🏹 Migrando para o Desenvolvimento
 
-[! [Estatísticas do GitHub de Anurag-Dark] (https://github-readme-stats.vercel.app/api?username=ViniciusPelizzari&show_icons)
+[! [Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ViniciusPelizzari&show_icons)
 
 ! [Animação de cobra](https://github.com/ViniciusPelizzari/ViniciusPelizzari/blob/output/github-contribution-grid-snake.svg)
 
