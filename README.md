@@ -1,4 +1,4 @@
-## Prazer! Me chamo Vinícius Pelizzari
+## ⚙️⚒️ Profile under Construction
 
 <div>
 <picture>
@@ -17,7 +17,6 @@
 
 </div>
 
-- ⚙️⚒️ Profile under Construction
 - 🎓 Analista e Desenvolvedor de Sistemas
 - 🔭 Atualmente trabalho como HelpDesk
 - 🍵 Estudando Java
