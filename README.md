@@ -10,7 +10,7 @@
   
 </div>
 
-<div>
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusPelizzari&layout=compact&theme=dark)](https://github.com/ViniciusPelizzari/github-readm<div>
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=ViniciusPelizzari&show_icons=true&theme=dark"
@@ -23,7 +23,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=ViniciusPelizzari&show_icons=true" />
 </picture>
   
- <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusPelizzari&layout=compact&theme=dark)](https://github.com/ViniciusPelizzari/github-readme-stats) -->
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusPelizzari&layout=compact&theme=dark)](https://github.com/ViniciusPelizzari/github-readme-stats) -->
 
 </div>
  
