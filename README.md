@@ -10,6 +10,7 @@
   <img align="center" alt="Vinicius-Python" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Vinicius-Python" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
   <img align="center" alt="Vinicius-Python" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Vinicius-Python" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scrum/scrum-original.svg">
   <!--<img align="center" alt="Vinicius-Python" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
   
 </div>
