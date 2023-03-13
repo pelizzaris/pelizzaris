@@ -34,9 +34,21 @@
 <div>
   <a href="https://github.com/ViniciusPelizzari/TIPOS_DE_DADOS" target="_blank">Tipos de dados em JAVA</a>
 
-  <a href="https://github.com/ViniciusPelizzari/TIPOS_DE_DADOS/tree/Boolean" target="_blank">    - BOOLEAN</a>
+  <a href="https://github.com/ViniciusPelizzari/TIPOS_DE_DADOS/tree/Boolean" target="_blank">- BOOLEAN</a>
   
-  <a href="https://github.com/ViniciusPelizzari/TIPOS_DE_DADOS/tree/Byte" target="_blank">    - BYTE</a>
+  <a href="https://github.com/ViniciusPelizzari/TIPOS_DE_DADOS/tree/Byte" target="_blank">- BYTE</a>
+  
+  <a href="https://github.com/ViniciusPelizzari/TIPOS_DE_DADOS/tree/Char" target="_blank">- CHAR</a>
+  
+  <a href="https://github.com/ViniciusPelizzari/TIPOS_DE_DADOS/tree/Double" target="_blank">- DOUBLE</a>
+  
+  <a href="https://github.com/ViniciusPelizzari/TIPOS_DE_DADOS/tree/Float" target="_blank">- FLOAT</a>
+  
+  <a href="https://github.com/ViniciusPelizzari/TIPOS_DE_DADOS/tree/Int" target="_blank">- INT</a>
+  
+  <a href="https://github.com/ViniciusPelizzari/TIPOS_DE_DADOS/tree/Long" target="_blank">- LONG</a>
+  
+  <a href="https://github.com/ViniciusPelizzari/TIPOS_DE_DADOS/tree/Short" target="_blank">- SHORT</a>
 </div>
 
 
