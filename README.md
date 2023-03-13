@@ -30,9 +30,9 @@
 
 </div>
  
-
+ ##
 <div>
-  <a href="https://github.com/ViniciusPelizzari/TIPOS_DE_DADOS" target="_blank">Repositório no GitHub</a>
+  <a href="https://github.com/ViniciusPelizzari/TIPOS_DE_DADOS" target="_blank">Tipos de dados em JAVA</a>
 </div>
 
 
