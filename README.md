@@ -67,7 +67,7 @@
   <a href="https://github.com/ViniciusPelizzari/Estruturas_de_Controle/tree/If_Else" target="_blank">- if_else</a><br>
   <a href="https://github.com/ViniciusPelizzari/Estruturas_de_Controle/tree/Switch_Case" target="_blank">- switch_case</a><br>
   <a href="https://github.com/ViniciusPelizzari/Estruturas_de_Controle/tree/Ternary" target="_blank">- ternary</a><br>
-  <a href="https://github.com/ViniciusPelizzari/Estruturas_de_Controle/tree/Throw" target="_blank">- throw</a><br>
+  <a href="https://github.com/ViniciusPelizzari/Estruturas_de_Controle/tree/Throw" target="_blank">- throw</a>
   <a href="https://github.com/ViniciusPelizzari/Estruturas_de_Controle/tree/Throws" target="_blank">- throws</a>
   <a href="https://github.com/ViniciusPelizzari/Estruturas_de_Controle/tree/Try_Catch" target="_blank">- try_catch</a><br>
   <a href="https://github.com/ViniciusPelizzari/Estruturas_de_Controle/tree/While" target="_blank">- while</a><br>
