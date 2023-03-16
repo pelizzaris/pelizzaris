@@ -57,6 +57,24 @@
   <a href="https://github.com/ViniciusPelizzari/TIPOS_DE_DADOS/tree/Short" target="_blank">- short</a><br>
 </div>
 
+<div>
+  <a href="https://github.com/ViniciusPelizzari/Estruturas_de_Controle" target="_blank">Estruturas de controle em JAVA</a><br>
+  <a href="https://github.com/ViniciusPelizzari/Estruturas_de_Controle/tree/Break" target="_blank">- break</a><br>
+  <a href="https://github.com/ViniciusPelizzari/Estruturas_de_Controle/tree/Continue" target="_blank">- continue</a><br>
+  <a href="https://github.com/ViniciusPelizzari/Estruturas_de_Controle/tree/Do_While" target="_blank">- do_while</a><br>
+  <a href="https://github.com/ViniciusPelizzari/Estruturas_de_Controle/tree/Finally_Last" target="_blank">- finally_last</a><br>
+  <a href="https://github.com/ViniciusPelizzari/Estruturas_de_Controle/tree/For_Each" target="_blank">- for_each</a><br>
+  <a href="https://github.com/ViniciusPelizzari/Estruturas_de_Controle/tree/For" target="_blank">- for</a><br>
+  <a href="https://github.com/ViniciusPelizzari/Estruturas_de_Controle/tree/If_Else" target="_blank">- if_else</a><br>
+  <a href="https://github.com/ViniciusPelizzari/Estruturas_de_Controle/tree/Switch_Case" target="_blank">- switch_case</a><br>
+  <a href="https://github.com/ViniciusPelizzari/Estruturas_de_Controle/tree/Ternary" target="_blank">- ternary</a><br>
+  <a href="https://github.com/ViniciusPelizzari/Estruturas_de_Controle/tree/Throw" target="_blank">- throw</a><br>
+  <a href="https://github.com/ViniciusPelizzari/Estruturas_de_Controle/tree/Throws" target="_blank">- throws</a><br>
+  <a href="https://github.com/ViniciusPelizzari/Estruturas_de_Controle/tree/Try_Catch" target="_blank">- try_catch</a><br>
+  <a href="https://github.com/ViniciusPelizzari/Estruturas_de_Controle/tree/While" target="_blank">- while</a><br>
+  
+</div>
+
  ##
 <div>
   <a href="https://www.instagram.com/v_pelizzari/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
