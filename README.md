@@ -54,8 +54,9 @@
   <a href="https://github.com/ViniciusPelizzari/TIPOS_DE_DADOS/tree/Float" target="_blank">- float</a><br>
   <a href="https://github.com/ViniciusPelizzari/TIPOS_DE_DADOS/tree/Int" target="_blank">- int</a><br>
   <a href="https://github.com/ViniciusPelizzari/TIPOS_DE_DADOS/tree/Long" target="_blank">- long</a><br>
-  <a href="https://github.com/ViniciusPelizzari/TIPOS_DE_DADOS/tree/Short" target="_blank">- short</a><br>
   <p></p>
+  <a href="https://github.com/ViniciusPelizzari/TIPOS_DE_DADOS/tree/Short" target="_blank">- short</a><br>
+  
   <a href="https://github.com/ViniciusPelizzari/Estruturas_de_Controle" target="_blank">Estruturas de controle em JAVA</a><br>
   <a href="https://github.com/ViniciusPelizzari/Estruturas_de_Controle/tree/Break" target="_blank">- break</a><br>
   <a href="https://github.com/ViniciusPelizzari/Estruturas_de_Controle/tree/Continue" target="_blank">- continue</a><br>
@@ -68,7 +69,7 @@
   <a href="https://github.com/ViniciusPelizzari/Estruturas_de_Controle/tree/Ternary" target="_blank">- ternary</a><br>
   <a href="https://github.com/ViniciusPelizzari/Estruturas_de_Controle/tree/Throw" target="_blank">- throw</a><br>
   <a href="https://github.com/ViniciusPelizzari/Estruturas_de_Controle/tree/Throws" target="_blank">- throws</a><br>
-  <a href="https://github.com/ViniciusPelizzari/Estruturas_de_Controle/tree/Try_Catch" target="_blank">- try_catch</a><br>
+  <a href="https://github.com/ViniciusPelizzari/Estruturas_de_Controle/tree/Try_Catch" target="_blank">- try_catch</a>
   <a href="https://github.com/ViniciusPelizzari/Estruturas_de_Controle/tree/While" target="_blank">- while</a><br>
   
 </div>
