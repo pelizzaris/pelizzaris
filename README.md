@@ -53,10 +53,10 @@
   <a href="https://github.com/ViniciusPelizzari/TIPOS_DE_DADOS/tree/Double" target="_blank">- double</a><br>
   <a href="https://github.com/ViniciusPelizzari/TIPOS_DE_DADOS/tree/Float" target="_blank">- float</a><br>
   <a href="https://github.com/ViniciusPelizzari/TIPOS_DE_DADOS/tree/Int" target="_blank">- int</a><br>
-  <a href="https://github.com/ViniciusPelizzari/TIPOS_DE_DADOS/tree/Long" target="_blank">- long</a>
+  <a href="https://github.com/ViniciusPelizzari/TIPOS_DE_DADOS/tree/Long" target="_blank">- long</a><br>
   <a href="https://github.com/ViniciusPelizzari/TIPOS_DE_DADOS/tree/Short" target="_blank">- short</a><br>
 </div>
-
+##
 <div>
   <a href="https://github.com/ViniciusPelizzari/Estruturas_de_Controle" target="_blank">Estruturas de controle em JAVA</a><br>
   <a href="https://github.com/ViniciusPelizzari/Estruturas_de_Controle/tree/Break" target="_blank">- break</a><br>
