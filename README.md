@@ -46,16 +46,16 @@
 </div>-->
 
 <div>
-  <a href="https://github.com/ViniciusPelizzari/TIPOS_DE_DADOS" target="_blank">Dados primitivos em JAVA</a>
-  <a href="https://github.com/ViniciusPelizzari/TIPOS_DE_DADOS/tree/Boolean" target="_blank">- boolean</a>
-  <a href="https://github.com/ViniciusPelizzari/TIPOS_DE_DADOS/tree/Byte" target="_blank">- byte</a>
-  <a href="https://github.com/ViniciusPelizzari/TIPOS_DE_DADOS/tree/Char" target="_blank">- char</a>
-  <a href="https://github.com/ViniciusPelizzari/TIPOS_DE_DADOS/tree/Double" target="_blank">- double</a>
-  <a href="https://github.com/ViniciusPelizzari/TIPOS_DE_DADOS/tree/Float" target="_blank">- float</a>
-  <a href="https://github.com/ViniciusPelizzari/TIPOS_DE_DADOS/tree/Int" target="_blank">- int</a>
-  <a href="https://github.com/ViniciusPelizzari/TIPOS_DE_DADOS/tree/Long" target="_blank">- long</a>
+  <a href="https://github.com/ViniciusPelizzari/TIPOS_DE_DADOS" target="_blank">Dados primitivos em JAVA</a><br>
+  <a href="https://github.com/ViniciusPelizzari/TIPOS_DE_DADOS/tree/Boolean" target="_blank">- boolean</a><br>
+  <a href="https://github.com/ViniciusPelizzari/TIPOS_DE_DADOS/tree/Byte" target="_blank">- byte</a><br>
+  <a href="https://github.com/ViniciusPelizzari/TIPOS_DE_DADOS/tree/Char" target="_blank">- char</a><br>
+  <a href="https://github.com/ViniciusPelizzari/TIPOS_DE_DADOS/tree/Double" target="_blank">- double</a><br>
+  <a href="https://github.com/ViniciusPelizzari/TIPOS_DE_DADOS/tree/Float" target="_blank">- float</a><br>
+  <a href="https://github.com/ViniciusPelizzari/TIPOS_DE_DADOS/tree/Int" target="_blank">- int</a><br>
+  <a href="https://github.com/ViniciusPelizzari/TIPOS_DE_DADOS/tree/Long" target="_blank">- long</a><br>
   <p></p>
-  <a href="https://github.com/ViniciusPelizzari/TIPOS_DE_DADOS/tree/Short" target="_blank">- short</a>
+  <a href="https://github.com/ViniciusPelizzari/TIPOS_DE_DADOS/tree/Short" target="_blank">- short</a><br>
   
   <a href="https://github.com/ViniciusPelizzari/Estruturas_de_Controle" target="_blank">Estruturas de controle em JAVA</a><br>
   <a href="https://github.com/ViniciusPelizzari/Estruturas_de_Controle/tree/Break" target="_blank">- break</a><br>
