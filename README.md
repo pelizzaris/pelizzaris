@@ -7,7 +7,6 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="spring" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="hibernate" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg">
   <img align="center" alt="docker" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="mysql" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="oracle" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
