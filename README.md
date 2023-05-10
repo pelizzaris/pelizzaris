@@ -12,7 +12,6 @@
   <img align="center" alt="oracle" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
   <img align="center" alt="postgresql" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="postgresql" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="postgresql" height="60" width="70" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusPelizzari&layout=compact&theme=dark)](https://github.com/ViniciusPelizzari/github-readm<div>
 <picture>
