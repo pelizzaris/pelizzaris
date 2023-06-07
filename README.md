@@ -13,7 +13,7 @@
   <img align="center" alt="postgresql" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="postgresql" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusPelizzari&layout=compact&theme=dark)](https://github.com/ViniciusPelizzari/github-readm<div>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusPelizzari&layout=compact&theme=dark)](https://github.com/ViniciusPelizzari/github-readm<div>
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=ViniciusPelizzari&show_icons=true&theme=dark"
@@ -26,7 +26,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=ViniciusPelizzari&show_icons=true" />
 </picture>
   
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusPelizzari&layout=compact&theme=dark)](https://github.com/ViniciusPelizzari/github-readme-stats) -->
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusPelizzari&layout=compact&theme=dark)](https://github.com/ViniciusPelizzari/github-readme-stats) 
 
 </div>
  
