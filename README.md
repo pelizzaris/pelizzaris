@@ -77,7 +77,7 @@
  <a href="https://discord.com/channels/@me/1031649002757824533" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:vinipelizzari2410@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vpelizzari/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://vinicius-ps.vercel.app" target="_blank"><img src="https://vinicius-ps.vercel.app/img/1escopi-removebg-preview.png" target="_blank"></a> 
+  <a href="https://vinicius-ps.vercel.app" target="_blank">PORTFÓLIO</a> 
 </div>
 
 <div>
