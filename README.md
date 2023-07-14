@@ -57,21 +57,10 @@
  <a href="https://discord.com/channels/@me/1031649002757824533" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:vinipelizzari2410@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vpelizzari/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://vinicius-ps.vercel.app" target="_blank" style="background-color: black; display: flex; align-items: center; justify-content: center; text-decoration: none; padding: 10px;">
-  <img src="https://raw.githubusercontent.com/ViniciusPelizzari/perfil_web/main/img/1escopi-removebg-preview.png" alt="logo_perfil" height="20" width="20" style="margin-right: 5px;">
-  <span style="color: white;">Portfólio</span>
-</a>
-
-
-
-</div>
-
-<div>
-  <object type="image/svg+xml" data="https://raw.githubusercontent.com/ViniciusPelizzari/ViniciusPelizzari/output/github-contribution-grid-snake.svg"></object>
-</div>
 
 ##
 <div style="display: flex; align-items: center;">
-  <img align="center" alt="logo_perfil" height="60" width="70" src="https://raw.githubusercontent.com/ViniciusPelizzari/perfil_web/main/img/1escopi-removebg-preview.png">
+  <a href="https://vinicius-ps.vercel.app" <img align="center" alt="logo_perfil" height="60" width="70" src="https://raw.githubusercontent.com/ViniciusPelizzari/perfil_web/main/img/1escopi-removebg-preview.png">
   <span style="margin-left: 10px;">V_Pelizzari</span>
+  </a>
 </div>
