@@ -11,10 +11,9 @@
   <img align="center" alt="oracle" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
   <img align="center" alt="postgresql" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="postgresql" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="github" height="60" width="70" src="https://p.kindpng.com/picc/s/128-1280233_free-files-github-github-white-logo-png-transparent.png">
   <img align="center" alt="intellij" height="60" width="70" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg">
-  <img align="center" alt="postman" height="60" width="70" src="https://iconscout.com/icon/postman-3521648">
-  <img align="center" alt="postman" height="60" width="70" src="https://www.flaticon.com/free-icon/train_4846935?related_id=4846935&origin=pack">
+  <img align="center" alt="postman" height="60" width="70" src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png">
+  <img align="center" alt="railway" height="60" width="70" src="https://railway.app/brand/logo-light.svg">
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusPelizzari&layout=compact&theme=dark)](https://github.com/ViniciusPelizzari/github-readm<div>
 <picture>
