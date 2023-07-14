@@ -57,9 +57,11 @@
  <a href="https://discord.com/channels/@me/1031649002757824533" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:vinipelizzari2410@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vpelizzari/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://vinicius-ps.vercel.app" target="_blank" style="background-color: black; padding: 10px; display: inline-block;">
-  <img src="https://raw.githubusercontent.com/ViniciusPelizzari/perfil_web/main/img/1escopi-removebg-preview.png" alt="logo_perfil" height="20" width="20">
+  <a href="https://vinicius-ps.vercel.app" target="_blank" style="background-color: black; color: white; padding: 10px; display: inline-flex; align-items: center; text-decoration: none;">
+  <img src="https://raw.githubusercontent.com/ViniciusPelizzari/perfil_web/main/img/1escopi-removebg-preview.png" alt="logo_perfil" height="20" width="20" style="margin-right: 5px;">
+  Portfólio
 </a>
+
 
 </div>
 
