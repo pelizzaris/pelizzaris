@@ -35,9 +35,8 @@
 
 </div>
  
- ##
+ <!--##
  EXPLICAÇÕES E PEQUENOS CÓDIGOS
- <!--
 <div>
   <a href="https://github.com/ViniciusPelizzari/TIPOS_DE_DADOS" target="_blank">Dados primitivos em JAVA</a><br>
   <a href="https://github.com/ViniciusPelizzari/TIPOS_DE_DADOS/tree/Boolean" target="_blank">- boolean</a><br>
