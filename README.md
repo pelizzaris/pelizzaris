@@ -3,6 +3,8 @@
 - 🎓 Analista e Desenvolvedor de Sistemas
 - 🍵 Java / Spring / Docker / SQL - MySQL - Oracle - PostgreSQL
 - 🏹 Migrando para o Desenvolvimento
+
+## Tecnologias
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="spring" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
@@ -37,18 +39,6 @@
  EXPLICAÇÕES E PEQUENOS CÓDIGOS
  <!--
 <div>
-  <a href="https://github.com/ViniciusPelizzari/TIPOS_DE_DADOS" target="_blank">Tipos de dados em JAVA</a><br>
-  <a href="https://github.com/ViniciusPelizzari/TIPOS_DE_DADOS/tree/Boolean" target="_blank">- BOOLEAN</a><br>
-  <a href="https://github.com/ViniciusPelizzari/TIPOS_DE_DADOS/tree/Byte" target="_blank">- BYTE</a><br>
-  <a href="https://github.com/ViniciusPelizzari/TIPOS_DE_DADOS/tree/Char" target="_blank">- CHAR</a><br>
-  <a href="https://github.com/ViniciusPelizzari/TIPOS_DE_DADOS/tree/Double" target="_blank">- DOUBLE</a><br>
-  <a href="https://github.com/ViniciusPelizzari/TIPOS_DE_DADOS/tree/Float" target="_blank">- FLOAT</a><br>
-  <a href="https://github.com/ViniciusPelizzari/TIPOS_DE_DADOS/tree/Int" target="_blank">- INT</a><br>
-  <a href="https://github.com/ViniciusPelizzari/TIPOS_DE_DADOS/tree/Long" target="_blank">- LONG</a><br>
-  <a href="https://github.com/ViniciusPelizzari/TIPOS_DE_DADOS/tree/Short" target="_blank">- SHORT</a><br>
-</div>-->
-
-<div>
   <a href="https://github.com/ViniciusPelizzari/TIPOS_DE_DADOS" target="_blank">Dados primitivos em JAVA</a><br>
   <a href="https://github.com/ViniciusPelizzari/TIPOS_DE_DADOS/tree/Boolean" target="_blank">- boolean</a><br>
   <a href="https://github.com/ViniciusPelizzari/TIPOS_DE_DADOS/tree/Byte" target="_blank">- byte</a><br>
@@ -59,22 +49,9 @@
   <a href="https://github.com/ViniciusPelizzari/TIPOS_DE_DADOS/tree/Long" target="_blank">- long</a><br>
   <a href="https://github.com/ViniciusPelizzari/TIPOS_DE_DADOS/tree/Short" target="_blank">- short</a><br>
   <p></p>
-  <!--<a href="https://github.com/ViniciusPelizzari/Estruturas_de_Controle" target="_blank">Estruturas de controle em JAVA</a><br>
-  <a href="https://github.com/ViniciusPelizzari/Estruturas_de_Controle/tree/Break" target="_blank">- break</a><br>
-  <a href="https://github.com/ViniciusPelizzari/Estruturas_de_Controle/tree/Continue" target="_blank">- continue</a><br>
-  <a href="https://github.com/ViniciusPelizzari/Estruturas_de_Controle/tree/Do_While" target="_blank">- do_while</a><br>
-  <a href="https://github.com/ViniciusPelizzari/Estruturas_de_Controle/tree/Finally_Last" target="_blank">- finally_last</a><br>
-  <a href="https://github.com/ViniciusPelizzari/Estruturas_de_Controle/tree/For_Each" target="_blank">- for_each</a><br>
-  <a href="https://github.com/ViniciusPelizzari/Estruturas_de_Controle/tree/For" target="_blank">- for</a><br>
-  <a href="https://github.com/ViniciusPelizzari/Estruturas_de_Controle/tree/If_Else" target="_blank">- if_else</a><br>
-  <a href="https://github.com/ViniciusPelizzari/Estruturas_de_Controle/tree/Switch_Case" target="_blank">- switch_case</a><br>
-  <a href="https://github.com/ViniciusPelizzari/Estruturas_de_Controle/tree/Ternary" target="_blank">- ternary</a><br>
-  <a href="https://github.com/ViniciusPelizzari/Estruturas_de_Controle/tree/Throw" target="_blank">- throw</a><br>
-  <a href="https://github.com/ViniciusPelizzari/Estruturas_de_Controle/tree/Throws" target="_blank">- throws</a><br>
-  <a href="https://github.com/ViniciusPelizzari/Estruturas_de_Controle/tree/Try_Catch" target="_blank">- try_catch</a><br>
-  <a href="https://github.com/ViniciusPelizzari/Estruturas_de_Controle/tree/While" target="_blank">- while</a><br>-->
   
 </div>
+-->
 
  ##
 <div>
@@ -85,4 +62,10 @@
 
 <div>
   <object type="image/svg+xml" data="https://raw.githubusercontent.com/ViniciusPelizzari/ViniciusPelizzari/output/github-contribution-grid-snake.svg"></object>
+</div>
+
+##
+<div style="display: flex; align-items: center;">
+  <img align="center" alt="logo_perfil" height="60" width="70" src="https://raw.githubusercontent.com/ViniciusPelizzari/perfil_web/main/img/1escopi-removebg-preview.png">
+  <span style="margin-left: 10px;">V_Pelizzari</span>
 </div>
