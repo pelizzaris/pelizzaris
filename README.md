@@ -64,6 +64,3 @@
   <span style="margin-left: 10px;">V_Pelizzari</span>
   </a>
 </div>
-
-<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent?link=https%3A%2F%2Fvinicius-ps.vercel.app%2Fcertificado.html">
-
