@@ -1,7 +1,7 @@
 ## ⚙️⚒️🔭 Profile under Construction
 
 - 🎓 Analista e Desenvolvedor de Sistemas
-- 🍵 Java / Spring / Docker / SQL - MySQL - Oracle - PostgreSQL
+- 🍵 Java / Spring /
 - 🏹 Migrando para o Desenvolvimento
 
 ## Tecnologias
