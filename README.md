@@ -60,7 +60,7 @@
 
 ##
 <div style="display: flex; align-items: center;">
-  <a href="https://vinicius-ps.vercel.app"><img align="center" alt="logo_perfil" height="60" width="70" src="https://raw.githubusercontent.com/ViniciusPelizzari/perfil_web/main/img/1escopi-removebg-preview.png">
+  <a href="https://vpelizzarisilva.com.br"><img align="center" alt="logo_perfil" height="60" width="70" src="https://raw.githubusercontent.com/ViniciusPelizzari/perfil_web/main/img/1escopi-removebg-preview.png">
   <span style="margin-left: 10px;">V_Pelizzari</span>
   </a>
 </div>
