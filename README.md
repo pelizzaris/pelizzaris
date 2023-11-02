@@ -3,7 +3,7 @@
 - 🎓 Analista e Desenvolvedor de Sistemas
 - 🍵 Java / Spring / 
 - 🏹 Mirando no Desenvolvimento
-- 🇺🇸 Intermediário
+- &#x1F1FA;&#x1F1F8; Intermediário
 
 ##
 <div style="display: inline_block"><br>
