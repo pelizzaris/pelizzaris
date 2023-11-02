@@ -3,7 +3,7 @@
 - 🎓 Analista e Desenvolvedor de Sistemas
 - 🍵 Java / Spring / 
 - 🏹 Mirando no Desenvolvimento
-- &#x1F1FA;&#x1F1F8; Intermediário
+- ![Bandeira dos Estados Unidos](<img align="center" alt="Java" height="25" width=30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">); Intermediário
 
 ##
 <div style="display: inline_block"><br>
