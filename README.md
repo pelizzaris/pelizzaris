@@ -1,7 +1,7 @@
 ## ⚙️⚒️🔭 Profile under Construction
 
 - 🎓 Analista e Desenvolvedor de Sistemas
-- 🍵 Java / Spring / 
+- 🍵 Java | Spring 
 - 🏹 Mirando no Desenvolvimento
 
 ##
