@@ -8,8 +8,9 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java,python" />
 </div>
+
 #### Backend
-<div align="left"size="15">
+<div align="left" size="15">
   <img src="https://skillicons.dev/icons?i=spring,hibernate,maven,kafka" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/quarkus/quarkus-original.svg" alt="Quarkus" height="48" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/thymeleaf/thymeleaf-original.svg" alt="Thymeleaf" height="48" />
