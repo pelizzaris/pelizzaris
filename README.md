@@ -1,13 +1,13 @@
 ## ⚙️⚒️🔭 Profile under Construction
 
 - 🎓 Java Developer, Teacher, and Entrepreneur
-- 🍵 Backend Enthusiast | Java & Spring 
+- 🍵 Backend Enthusiast | Java & Spring | Rest API
 - 🏹 Foco no Desenvolvimento
 
   <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,quarkus" />
-    <img src="https://skillicons.dev/icons?i=mysql,postgresql,docker,git,github" />
-    <img src="https://skillicons.dev/icons?i=postman,insomnia,intellij,html,css" />
+    <img src="https://skillicons.dev/icons?i=java,spring,quarkus,thymeleaf,hibernate,maven,python" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql,docker,kubernetes,aws,apachekafka,git,github,junit,swagger" />
+    <img src="https://skillicons.dev/icons?i=postman,insomnia,intellij,angular,html,css" />
   </div>
 
 ## 🛠️ Tech Stack
