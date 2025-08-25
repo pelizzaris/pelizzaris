@@ -6,7 +6,7 @@
 
   <div align="center">
     <img src="https://skillicons.dev/icons?i=java,spring,quarkus,thymeleaf,hibernate,maven,python" />
-    <img src="https://skillicons.dev/icons?i=mysql,postgresql,docker,kubernetes,aws,apachekafka,git,github,junit,swagger" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql,docker,kubernetes,aws,kafka,git,github,junit,swagger" />
     <img src="https://skillicons.dev/icons?i=postman,insomnia,intellij,angular,html,css" />
   </div>
 
