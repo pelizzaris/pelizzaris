@@ -34,7 +34,9 @@
 
 #### Backend
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=spring,quarkus,hibernate,maven,kafka,thymeleaf" />
+<img src="https://skillicons.dev/icons?i=spring,hibernate,maven,kafka" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/quarkus/quarkus-original.svg" alt="Quarkus" height="48" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/thymeleaf/thymeleaf-original.svg" alt="Thymeleaf" height="48" />
 </div>
 
 #### Frontend
@@ -52,9 +54,12 @@
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,ubuntu" />
 </div>
 
-#### Testes, Versionamento & Ferramentas
+#### T[](url)estes, Versionamento & Ferramentas
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=junit,swagger,postman,insomnia,git,github,idea" />
+<img src="https://skillicons.dev/icons?i=postman,git,github,idea" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg" alt="JUnit" height="48" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" alt="Swagger" height="48" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/insomnia/insomnia-original.svg" alt="Insomnia" height="48" />
 </div>
 
 ### 🛠️ Habilidades & Ferramentas
