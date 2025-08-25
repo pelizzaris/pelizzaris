@@ -4,11 +4,11 @@
 - 🍵 Backend Enthusiast | Java & Spring
 - 🏹 API Rest & Microservices
 
-  <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,spring,quarkus,thymeleaf,hibernate,maven,python" />
-    <img src="https://skillicons.dev/icons?i=mysql,postgresql,docker,kubernetes,aws,kafka,git,ubuntu,github,junit,swagger" />
-    <img src="https://skillicons.dev/icons?i=postman,insomnia,idea,angular,html,css" />
-  </div>
+#### DevOps, Cloud & Infraestrutura
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,ubuntu" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-plain.svg" alt="Grafana" height="48" />
+</div>
 
   #### Backend
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
