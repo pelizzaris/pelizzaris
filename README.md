@@ -1,9 +1,9 @@
-## ⚙️⚒️🔭 Profile under Construction
+## ⚙️⚒️🔭 Building a T-shaped career
 - 🎓 Java Developer, Teacher, and Entrepreneur  
 - 🍵 Backend Enthusiast | Java & Spring  
 - 🏹 API Rest & Microservices  
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 #### Linguagens
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java,python />
