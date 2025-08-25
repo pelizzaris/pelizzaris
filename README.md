@@ -10,26 +10,14 @@
     <img src="https://skillicons.dev/icons?i=postman,insomnia,idea,angular,html,css" />
   </div>
 
-## 🛠️ Tech Stack
-<div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="48" width="56" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="spring" height="48" width="56" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="spring" height="48" width="56" src="https://github.com/devicons/devicon/blob/master/icons/quarkus/quarkus-original.svg">
-  <img align="center" alt="spring" height="48" width="56" src="https://github.com/devicons/devicon/blob/master/icons/thymeleaf/thymeleaf-original.svg">
-  <img align="center" alt="spring" height="48" width="56" src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original.svg">
-  <!--<img align="center" alt="docker" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">-->
-  <!--<img align="center" alt="docker" height="60" width="70" src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg">-->
-  <!--<img align="center" alt="docker" height="60" width="70" src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg">-->
-  <!--<img align="center" alt="docker" height="60" width="70" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg">-->
-  <img align="center" alt="mysql" height="48" width="56" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <!--<img align="center" alt="oracle" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">-->
-  <img align="center" alt="postgresql" height="48" width="56" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="css" height="48" width="56" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
-  <img align="center" alt="html" height="48" width="56" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
-  <img align="center" alt="git" height="48" width="56" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="postman" height="48" width="56" src="https://icon.icepanel.io/Technology/svg/Postman.svg">
-  <img align="center" alt="insomnia" height="48" width="56" src="https://github.com/devicons/devicon/blob/master/icons/insomnia/insomnia-original.svg">
+  #### Backend
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+<img src="https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white" />
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=spring,quarkus,hibernate,maven" />
 </div>
+
 
  ## 🌐 Where to find me
 <div>
@@ -37,7 +25,7 @@
   <a href="https://www.linkedin.com/in/vpelizzari/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-### 🛠️ Habilidades & Ferramentas
+### 🛠️ Tech Stack
 
 #### Linguagens
 <div align="center">
@@ -69,47 +57,6 @@
   <img src="https://skillicons.dev/icons?i=junit,swagger,postman,insomnia,git,github,idea" />
 </div>
 
-### 🛠️ Habilidades & Ferramentas
-
-- **Linguagens:**
-  <br>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-
-- **Backend:**
-  <br>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
-
-- **Frontend:**
-  <br>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-
-- **Bancos de Dados:**
-  <br>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-
-- **DevOps, Cloud & Infraestrutura:**
-  <br>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-
-- **Testes, Versionamento & Ferramentas:**
-  <br>
-  <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 ### 🛠️ Habilidades & Ferramentas
 
 - **Linguagens:**
