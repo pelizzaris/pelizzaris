@@ -4,6 +4,12 @@
 - 🍵 Backend Enthusiast | Java & Spring 
 - 🏹 Foco no Desenvolvimento
 
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,quarkus" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql,docker,git,github" />
+    <img src="https://skillicons.dev/icons?i=postman,insomnia,intellij,html,css" />
+  </div>
+
 ## 🛠️ Tech Stack
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="48" width="56" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
