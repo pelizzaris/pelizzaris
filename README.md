@@ -1,13 +1,9 @@
 ## ⚙️⚒️🔭 Profile under Construction
-
 - 🎓 Java Developer, Teacher, and Entrepreneur  
 - 🍵 Backend Enthusiast | Java & Spring  
 - 🏹 API Rest & Microservices  
 
----
-
 ### 🛠️ Tech Stack
-
 #### Linguagens
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java,python" />
@@ -43,10 +39,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/insomnia/insomnia-original.svg" alt="Insomnia" height="48" />
 </div>
 
----
-
-## 🌐 Where to find me
-
+### 🌐 Where to find me
 <div align="left">
   <a href="https://discord.com/channels/@me/1031649002757824533" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" height="48"/>
