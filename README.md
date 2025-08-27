@@ -34,10 +34,10 @@
 
 #### Testes, Versionamento & Ferramentas
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=postman,git,github,idea" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg" alt="JUnit" height="48" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" alt="Swagger" height="48" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/insomnia/insomnia-original.svg" alt="Insomnia" height="48" />
+  <img src="https://skillicons.dev/icons?i=postman,git,github,idea" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" alt="Swagger" height="48" />
 </div>
 
 ### 🌐 Where to find me
