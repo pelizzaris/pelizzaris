@@ -6,7 +6,7 @@
 ## 🛠️ Tech Stack
 #### Linguagens
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java,python />
+  <img src="https://skillicons.dev/icons?i=java" />
 </div>
 
 #### Backend
