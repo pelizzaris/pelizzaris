@@ -49,3 +49,5 @@
     <img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
   </a>
 </div>
+
+![](https://komarev.com/ghpvc/?username=pelizzaris&color=006bed)
