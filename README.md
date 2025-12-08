@@ -1,7 +1,10 @@
 ## ⚙️⚒️🔭 Building a T-shaped career
 - 🎓 Java Developer, Teacher, and Entrepreneur  
 - 🍵 Backend Enthusiast | Java & Spring  
-- 🏹 API Rest & Microservices  
+- 🏹 API Rest & Microservices
+
+
+- Adquirindo conhecimento em algumas das tecnologias abaixo
 
 ## 🛠️ Tech Stack
 #### Linguagens
