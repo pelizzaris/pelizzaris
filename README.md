@@ -22,7 +22,7 @@
 
 #### Frontend
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=angular,html,css" />
+  <img src="https://skillicons.dev/icons?i=javascript,html,css" />
 </div>
 
 #### Bancos de Dados
@@ -32,7 +32,7 @@
 
 #### DevOps, Cloud & Infraestrutura
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,ubuntu" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,ubuntu,powershell" />
 </div>
 
 #### Testes, Versionamento & Ferramentas
@@ -43,7 +43,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" alt="Swagger" height="48" />
 </div>
 
-### 🌐 Where to find me
+## 🌐 Where to find me
 <div align="left">
   <a href="https://discord.com/channels/@me/1031649002757824533" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" height="48"/>
