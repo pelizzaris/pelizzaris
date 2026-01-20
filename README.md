@@ -45,12 +45,11 @@
 
 ## 🌐 Where to find me
 <div align="left">
-  <a href="https://discord.com/channels/@me/1031649002757824533" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" height="48"/>
-  </a>
   <a href="https://www.linkedin.com/in/vpelizzari/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
   </a>
 </div>
+
+### Check my <a href="https://www.pelizzaris.com/" target="_blank">portfólio</a>
 
 ![](https://komarev.com/ghpvc/?username=pelizzaris&color=006bed)
